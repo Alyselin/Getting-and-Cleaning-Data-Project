@@ -1,5 +1,5 @@
 #Getting-and-Cleaning-Data-Project
-Aug 23, 2015 / R version 3.1.2 (2014-10-31) / Platform x86_64-w64-mingw32 
+######Aug 23, 2015 / R version 3.1.2 (2014-10-31) / Platform x86_64-w64-mingw32 
 ========================================================
 ##Comments Checklist by me:
 ####1)I have downloaded all file I need by ```download.file()``` and ```unzip()``` in R.
