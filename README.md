@@ -1,17 +1,17 @@
-# Getting-and-Cleaning-Data-Project
+## Getting-and-Cleaning-Data-Project
 Aug 23, 2015
 
 R version 3.1.2 (2014-10-31) / Platform x86_64-w64-mingw32 
 
-# Comments Checklist by me:
-##1)I have downloaded all file I need by download.file() and unzip() in R.
-##2)Read the Activity, Subject and Fearures files by read.table()
-##3)Merge datasets by rbind() 
-##4)Names of Feteatures will labelled using descriptive variable names by names()
-##5)Call library(plyr) and library(knitr)
-##6)The average of each variable are received by aggregate()
-##7)Then I created a table by write.table()
-##8)Created code book by knit2html()
+### Comments Checklist by me:
+####1)I have downloaded all file I need by ```download.file()``` and ```unzip()``` in R.
+####2)Read the Activity, Subject and Fearures files by ```read.table()```
+####3)Merge datasets by ```rbind()``` 
+####4)Names of Feteatures will labelled using descriptive variable names by ```names()```
+####5)Call ```library(plyr)``` and ```library(knitr)```
+####6)The average of each variable are received by ```aggregate()```
+####7)Then I created a table by ```write.table()```
+####8)Created code book by ```knit2html()```
 
 From Question1: 
 Please upload the tidy data set created in step 5 of the instructions. Please upload your data set as a txt file created with write.table() using row.name=FALSE (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
